@@ -1,0 +1,17 @@
+{
+  "name": "@casestack/mongo-grump",
+  "version": "1.0.0",
+  "description": "pulls a log from your mlab and puts it in an s3 bucket",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.368.0",
+    "axios": "^0.18.0",
+    "dotenv": "^6.2.0",
+    "prompt": "^1.0.0"
+  }
+}
